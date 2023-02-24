@@ -1,5 +1,5 @@
 {
-    "name": "laminas/laminas-mvc-console",
+    "name": "eliot-az/laminas-mvc-console",
     "description": "Integration between laminas-mvc and laminas-console",
     "license": "BSD-3-Clause",
     "keywords": [
@@ -29,9 +29,9 @@
         }
     },
     "require": {
-        "php": "^7.3 || ~8.0.0",
+        "php": "^7.3 || ~8.0.0 || ^8.1",
         "container-interop/container-interop": "^1.1",
-        "laminas/laminas-console": "^2.6",
+        "eliot-az/laminas-console": "^2.6",
         "laminas/laminas-eventmanager": "^3.3",
         "laminas/laminas-modulemanager": "^2.7.1",
         "laminas/laminas-mvc": "^3.0.3",
